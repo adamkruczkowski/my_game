@@ -1,0 +1,10 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "u:\\studia\\pk\\pk4\\projekt_pk4\\projekt_pk4\\zmienne.ixx",
+        "ProvidedModule": "zmienne",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

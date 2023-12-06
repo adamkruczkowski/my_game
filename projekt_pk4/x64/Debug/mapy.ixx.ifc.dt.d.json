@@ -1,0 +1,10 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "u:\\studia\\pk\\pk4\\projekt_pk4\\projekt_pk4\\mapy.ixx",
+        "ProvidedModule": "mapy",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

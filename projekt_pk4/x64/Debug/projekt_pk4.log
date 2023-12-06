@@ -1,0 +1,33 @@
+﻿  Trwa skanowanie źródeł pod kątem zależności modułów...
+  zmienne.ixx
+  Trwa kompilowanie…
+  zmienne.ixx
+  GameObject.cpp
+  Mapa1.cpp
+  TextureManager.cpp
+  Winscreen.cpp
+  enemy.cpp
+U:\studia\pk\pk4\projekt_pk4\projekt_pk4\enemy.cpp(37,7): warning C4552: „/”: Wynik wyrażenia nie jest używany
+U:\studia\pk\pk4\projekt_pk4\projekt_pk4\enemy.cpp(39,7): warning C4552: „/”: Wynik wyrażenia nie jest używany
+  game.cpp
+U:\studia\pk\pk4\projekt_pk4\projekt_pk4\game.cpp(205,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+U:\studia\pk\pk4\projekt_pk4\projekt_pk4\game.cpp(319,36): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+U:\studia\pk\pk4\projekt_pk4\projekt_pk4\game.cpp(322,37): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+U:\studia\pk\pk4\projekt_pk4\projekt_pk4\game.cpp(325,38): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+U:\studia\pk\pk4\projekt_pk4\projekt_pk4\game.cpp(542,41): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+U:\studia\pk\pk4\projekt_pk4\projekt_pk4\game.cpp(558,41): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+U:\studia\pk\pk4\projekt_pk4\projekt_pk4\game.cpp(574,41): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+U:\studia\pk\pk4\projekt_pk4\projekt_pk4\game.cpp(596,38): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+U:\studia\pk\pk4\projekt_pk4\projekt_pk4\game.cpp(612,38): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+U:\studia\pk\pk4\projekt_pk4\projekt_pk4\game.cpp(646,41): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+U:\studia\pk\pk4\projekt_pk4\projekt_pk4\game.cpp(655,41): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+U:\studia\pk\pk4\projekt_pk4\projekt_pk4\game.cpp(706,37): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+U:\studia\pk\pk4\projekt_pk4\projekt_pk4\game.cpp(720,37): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  health.cpp
+  main.cpp
+  player.cpp
+  swamp.cpp
+  text.cpp
+  trap.cpp
+  Generowanie kodu...
+  projekt_pk4.vcxproj -> U:\studia\pk\pk4\projekt_pk4\x64\Debug\projekt_pk4.exe
